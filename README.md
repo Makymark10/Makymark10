@@ -13,24 +13,42 @@ I adapt quickly to new technologies and thrive on collaboration, building user-f
 
 ## 🛠️ Skills & Tech Stack
 
-### Frontend  
+### 🖼️ Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue" height="48" alt="Frontend Skills" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" title="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" title="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="48" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" title="Bootstrap" />
 </p>
 
-### Backend  
+### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" height="48" alt="Backend Skills" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="48" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="48" title="Laravel" />
+  <img src="https://blade-ui-kit.com/images/icon.svg" height="48" title="Blade" />
+  <img src="https://laravel-livewire.com/img/logo.png" height="48" title="Livewire" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" title="Node.js" />
 </p>
 
-### Database  
+### 🗄️ Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="48" alt="Databases" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" title="MongoDB" />
 </p>
 
-### Tools & Workflow  
+### 🛠️ Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vite,figma" height="48" alt="Tools" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" title="VS Code" />
+</p>
+
+### 🔧 Other
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" title="Java" />
 </p>
 
 ---
@@ -42,7 +60,7 @@ I adapt quickly to new technologies and thrive on collaboration, building user-f
 - 📱 +63 946 816 0725  
 
 **Connect with me:**  
-[GitHub](https://github.com) • [LinkedIn](https://www.linkedin.com) • [Facebook](https://www.facebook.com)
+[GitHub]([https://github.com](https://github.com/Makymark10)) • [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/mark-joero-j-699995229/)) • [Facebook]([https://www.facebook.com](https://www.facebook.com/markjoero.floresjacalne))
 
 ---
 
