@@ -1,38 +1,50 @@
-# PROJECT_NAME
+# 🌐 Mark Joero — Aspiring Web Developer
 
-[![License](https://img.shields.io/badge/license-MIT-informational)](#license)
-[![Build](https://img.shields.io/badge/build-passing-success)](#)
-[![Issues](https://img.shields.io/github/issues/USERNAME/REPO)](https://github.com/USERNAME/REPO/issues)
-[![Stars](https://img.shields.io/github/stars/USERNAME/REPO)](https://github.com/USERNAME/REPO)
-
-Short, punchy one-liner about what your project does and who it’s for.
+**Crafting digital experiences with clean code and creative design.**  
+Based in Pangasinan, Philippines, I specialize in modern web technologies and user-centric solutions.
 
 ---
 
-## ✨ Features
-- FEATURE_ONE
-- FEATURE_TWO
-- FEATURE_THREE
+## 👨‍💻 About Me
+I'm an aspiring developer with a passion for solving problems through clean, efficient, and maintainable code.  
+I adapt quickly to new technologies and thrive on collaboration, building user-friendly, high-performance applications that address real-world needs.  
 
-## 🖥️ Demo / Screenshots
-- Live demo: https://YOUR_DEMO_URL
-- ![Screenshot](docs/screenshot.png)
-
-## 🧱 Tech Stack
-- LANGUAGE / FRAMEWORK: LIST (e.g., TypeScript, React, Node, Laravel, MySQL)
-- TOOLING: LIST (e.g., Vite, Docker, ESLint/Prettier)
-- HOSTING/CI: LIST (e.g., Netlify, Vercel, GitHub Actions)
+**What drives me:**
+- ⚡ **Performance** — Building fast and optimized applications  
+- 🧩 **Problem Solving** — Tackling challenges with creative, effective solutions  
+- 📱 **Responsive Design** — Crafting modern layouts that adapt to any device  
+- 🤝 **Collaboration** — Working smoothly with teams and tools  
 
 ---
 
-## 🚀 Quick Start
+## 🛠️ Skills
+*(You can refine this list to match your strongest stacks)*  
+- **Frontend:** HTML, CSS, JavaScript, [React / Vue if applicable]  
+- **Backend:** [Laravel / Node.js / Express]  
+- **Databases:** [MySQL / PostgreSQL / MongoDB]  
+- **Tools:** Git, GitHub, Vite, Docker, CI/CD  
+- **Other:** Responsive & accessible design, performance optimization  
 
-### Prerequisites
-- Node `>= XX` and npm `>= XX` *(or)* PHP `>= XX`, Composer, and a database (MySQL/PostgreSQL)
-- Optional: Docker `>= XX`
+---
 
-### 1) Clone & Configure
-```bash
-git clone https://github.com/USERNAME/REPO.git
-cd REPO
-cp .env.example .env   # create your environment file
+## 🚀 Projects
+A showcase of some of my work:  
+
+- **Project A** — Short description of what it does & technologies used  
+- **Project B** — Highlight your role and outcome  
+- *(More projects coming soon!)*  
+
+---
+
+## 📫 Contact
+
+- 📍 Alcala, Pangasinan, Philippines  
+- 📧 [markjoero@gmail.com](mailto:markjoero@gmail.com)  
+- 📱 +63 946 816 0725  
+
+**Connect with me:**  
+[GitHub](https://github.com) • [LinkedIn](https://www.linkedin.com) • [Facebook](https://www.facebook.com)  
+
+---
+
+✨ *Always learning. Always building. Always improving.*
